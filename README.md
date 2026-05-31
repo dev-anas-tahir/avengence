@@ -12,10 +12,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [kosmos-ecommerce](https://github.com/dev-anas-tahir/kosmos-ecommerce) | Luxury cosmetics microservices platform — async FastAPI, Pub/Sub, Next.js storefront | FastAPI · PostgreSQL · Redis · Next.js |
-| [Property-Hub](https://github.com/dev-anas-tahir/Property-Hub) | Real-estate listings with advanced search, favourites & Docker deployment | Django · Python · Docker |
-| [career-ops](https://github.com/dev-anas-tahir/career-ops) | AI-powered job search system — 14 skill modes, Go dashboard, PDF generation, batch processing | Claude Code · JavaScript · Go |
-| [diabetes-prediction](https://github.com/dev-anas-tahir/diabetes_prediction_system) | ML model predicting diabetic conditions in female patients | Python · scikit-learn · pandas |
+| [kosmos-ecommerce](https://github.com/anaswaleedtahir/kosmos-ecommerce) | Luxury cosmetics microservices platform — async FastAPI, Pub/Sub, Next.js storefront | FastAPI · PostgreSQL · Redis · Next.js |
+| [Property-Hub](https://github.com/anaswaleedtahir/Property-Hub) | Real-estate listings with advanced search, favourites & Docker deployment | Django · Python · Docker |
+| [career-ops](https://github.com/anaswaleedtahir/career-ops) | AI-powered job search system — 14 skill modes, Go dashboard, PDF generation, batch processing | Claude Code · JavaScript · Go |
+| [diabetes-prediction](https://github.com/anaswaleedtahir/diabetes_prediction_system) | ML model predicting diabetic conditions in female patients | Python · scikit-learn · pandas |
 
 ---
 
@@ -46,18 +46,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-anas-tahir&theme=codeSTACKr)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaswaleedtahir&theme=codeSTACKr)<br/>
 
-![](https://streak-stats.demolab.com/?user=dev-anas-tahir&theme=codeSTACKr&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=anaswaleedtahir&theme=codeSTACKr&hide_border=false)<br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-anas-tahir&theme=codeSTACKr)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-anas-tahir&theme=codeSTACKr)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaswaleedtahir&theme=codeSTACKr)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaswaleedtahir&theme=codeSTACKr)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-anas-tahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anaswaleedtahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Contribution Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-anas-tahir&theme=codeSTACKr&utcOffset=5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaswaleedtahir&theme=codeSTACKr&utcOffset=5)
 
 ---
-![](https://komarev.com/ghpvc/?username=dev-anas-tahir&style=flat&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=anaswaleedtahir&style=flat&color=0e75b6)
